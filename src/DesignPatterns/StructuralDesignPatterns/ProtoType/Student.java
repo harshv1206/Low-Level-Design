@@ -1,4 +1,6 @@
-package StructuralDesignPatterns.ProtoType;
+package DesignPatterns.StructuralDesignPatterns.ProtoType;
+
+import DesignPatterns.StructuralDesignPatterns.ProtoType.Prototype;
 
 public class Student implements Prototype{
     int age;

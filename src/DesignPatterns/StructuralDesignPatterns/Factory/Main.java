@@ -1,5 +1,8 @@
 package StructuralDesignPatterns.Factory;
 
+import DesignPatterns.StructuralDesignPatterns.Factory.Shape;
+import DesignPatterns.StructuralDesignPatterns.Factory.ShapeFactory;
+
 public class Main {
 
     public static void main(String[] args) {

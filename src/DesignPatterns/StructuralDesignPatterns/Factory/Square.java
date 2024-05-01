@@ -1,6 +1,4 @@
-package StructuralDesignPatterns.Factory;
-
-import StructuralDesignPatterns.Factory.Shape;
+package DesignPatterns.StructuralDesignPatterns.Factory;
 
 public class Square implements Shape {
     @Override

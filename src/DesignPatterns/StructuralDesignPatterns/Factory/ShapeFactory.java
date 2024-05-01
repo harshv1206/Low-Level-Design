@@ -1,4 +1,8 @@
-package StructuralDesignPatterns.Factory;
+package DesignPatterns.StructuralDesignPatterns.Factory;
+
+import DesignPatterns.StructuralDesignPatterns.Factory.Circle;
+
+import java.awt.*;
 
 public class ShapeFactory {
     public Shape getShapeInstance(String value){
