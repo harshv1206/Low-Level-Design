@@ -1,8 +1,10 @@
 package LLD.VendingMachine;
 
 public interface VendingMachineState {
-    public void insertCoin(VendingMachine vendingMachine);
+    public void clickOnInsertCoinButton(VendingMachine vendingMachine);
+    public void insertCoin(VendingMachine vendingMachine, Coin coin);
     public void getRefund(VendingMachine vendingMachine);
-    public void chooseItem(VendingMachine vendingMachine);
-    public void dispenseItem(VendingMachine vendingMachine);
+    public void chooseItem(VendingMachine vendingMachine, int codeNumber);
+    public void dispenseItem(VendingMachine vendingMachine, int codeNumber);
+    public void updateInventory(VendingMachine vendingMachine, Item item, int codeNumber);
 }
