@@ -1,6 +1,10 @@
-package LLD.VendingMachine;
+package LLD.VendingMachine.States;
 
-public class IdleState implements VendingMachineState{
+import LLD.VendingMachine.Coin;
+import LLD.VendingMachine.Item;
+import LLD.VendingMachine.VendingMachine;
+
+public class IdleState implements VendingMachineState {
 
     public IdleState(){
         System.out.println("VendingMachine is in IdleState");

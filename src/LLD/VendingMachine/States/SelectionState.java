@@ -1,8 +1,10 @@
-package LLD.VendingMachine;
+package LLD.VendingMachine.States;
+
+import LLD.VendingMachine.*;
 
 import java.util.List;
 
-public class SelectionState implements VendingMachineState{
+public class SelectionState implements VendingMachineState {
     public SelectionState(){
         System.out.println("Vending Machine is in Selection State");
     }

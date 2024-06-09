@@ -1,6 +1,8 @@
-package LLD.VendingMachine;
+package LLD.VendingMachine.States;
 
-public class HasMoneyState implements VendingMachineState{
+import LLD.VendingMachine.*;
+
+public class HasMoneyState implements VendingMachineState {
     public HasMoneyState(){
         System.out.println("VendingMachine is in HasMoneyState");
 

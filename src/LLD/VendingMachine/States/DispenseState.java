@@ -1,6 +1,8 @@
-package LLD.VendingMachine;
+package LLD.VendingMachine.States;
 
-public class DispenseState implements VendingMachineState{
+import LLD.VendingMachine.*;
+
+public class DispenseState implements VendingMachineState {
 
     @Override
     public void clickOnInsertCoinButton(VendingMachine vendingMachine) {

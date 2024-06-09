@@ -1,5 +1,10 @@
 package LLD.VendingMachine;
 
+import LLD.VendingMachine.States.VendingMachineState;
+
+import java.util.Arrays;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         VendingMachine machine = new VendingMachine();

@@ -1,4 +1,8 @@
-package LLD.VendingMachine;
+package LLD.VendingMachine.States;
+
+import LLD.VendingMachine.Coin;
+import LLD.VendingMachine.Item;
+import LLD.VendingMachine.VendingMachine;
 
 public interface VendingMachineState {
     public void clickOnInsertCoinButton(VendingMachine vendingMachine);
