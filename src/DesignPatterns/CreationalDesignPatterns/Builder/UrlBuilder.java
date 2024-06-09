@@ -1,4 +1,4 @@
-package DesignPatterns.Builder;
+package DesignPatterns.CreationalDesignPatterns.Builder;
 
 public class UrlBuilder {
     public   String protocol;
