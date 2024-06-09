@@ -1,6 +1,4 @@
-package DesignPatterns.StructuralDesignPatterns.Factory;
-
-import DesignPatterns.StructuralDesignPatterns.Factory.Circle;
+package DesignPatterns.CreationalDesignPatterns.Factory;
 
 import java.awt.*;
 

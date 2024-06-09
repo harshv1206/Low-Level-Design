@@ -1,4 +1,4 @@
-package DesignPatterns.StructuralDesignPatterns.Singleton;
+package DesignPatterns.CreationalDesignPatterns.Singleton;
 
 public class DBConnectionEagerLoading {
     //Eager Loading -> Thread Safe

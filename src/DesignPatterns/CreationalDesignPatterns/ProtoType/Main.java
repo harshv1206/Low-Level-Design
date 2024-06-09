@@ -1,6 +1,6 @@
 package StructuralDesignPatterns.ProtoType;
 
-import DesignPatterns.StructuralDesignPatterns.ProtoType.Student;
+import DesignPatterns.CreationalDesignPatterns.ProtoType.Student;
 
 public class Main {
     public static void main(String[] args) {

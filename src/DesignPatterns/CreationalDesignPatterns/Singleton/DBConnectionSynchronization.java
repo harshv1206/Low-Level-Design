@@ -1,4 +1,4 @@
-package DesignPatterns.StructuralDesignPatterns.Singleton;
+package DesignPatterns.CreationalDesignPatterns.Singleton;
 
 public class DBConnectionSynchronization {
     //Synchronised method -> thread safe

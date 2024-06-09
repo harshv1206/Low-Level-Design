@@ -1,5 +1,5 @@
 package
-        DesignPatterns.StructuralDesignPatterns.Factory;
+        DesignPatterns.CreationalDesignPatterns.Factory;
 
 public interface Shape {
     public void computeArea();

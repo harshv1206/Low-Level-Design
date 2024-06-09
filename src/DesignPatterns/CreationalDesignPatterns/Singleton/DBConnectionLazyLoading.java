@@ -1,4 +1,4 @@
-package DesignPatterns.StructuralDesignPatterns.Singleton;
+package DesignPatterns.CreationalDesignPatterns.Singleton;
 
 public class DBConnectionLazyLoading {
     // Lazy Loading  -> Not Thread Safe

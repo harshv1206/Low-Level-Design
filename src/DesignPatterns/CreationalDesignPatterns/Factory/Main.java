@@ -1,7 +1,7 @@
-package StructuralDesignPatterns.Factory;
+package DesignPatterns.CreationalDesignPatterns.Factory;
 
-import DesignPatterns.StructuralDesignPatterns.Factory.Shape;
-import DesignPatterns.StructuralDesignPatterns.Factory.ShapeFactory;
+import DesignPatterns.CreationalDesignPatterns.Factory.Shape;
+import DesignPatterns.CreationalDesignPatterns.Factory.ShapeFactory;
 
 public class Main {
 

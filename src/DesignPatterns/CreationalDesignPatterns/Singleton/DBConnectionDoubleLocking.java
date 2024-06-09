@@ -1,4 +1,4 @@
-package DesignPatterns.StructuralDesignPatterns.Singleton;
+package DesignPatterns.CreationalDesignPatterns.Singleton;
 
 public class DBConnectionDoubleLocking {
     //Double locking -> less costly than synchronised method approach -> thread safe
